@@ -20,19 +20,20 @@ Welcome to a console-based 2-player Snake Game designed in C++ for the Introduct
 perl
 Copy
 Edit
+
 ╔════════════════════════════════════════════════════════════╗
 
-║                                                           ║
+║                                                            ║
 
-║     @+     <- Snake 1 (Player 1)                          ║
+║      @+     <- Snake 1 (Player 1)                          ║
 
-║           @+     <- Snake 2 (Player 2)                    ║
+║            @+     <- Snake 2 (Player 2)                    ║
 
-║                                                           ║
+║                                                            ║
 
-║     O  <- Food | B  <- Bomb                               ║
+║      O  <- Food | B  <- Bomb                               ║
 
-║                                                           ║
+║                                                            ║
 
 ╚════════════════════════════════════════════════════════════╝
 
