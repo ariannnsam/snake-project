@@ -1,4 +1,4 @@
-## 🐍 Snake Game (2-Player Edition) – ITP Course Project
+## 🐍 Snake Game (2-Player Edition)
 Welcome to a console-based 2-player Snake Game designed in C++ for the Introduction to Programming (ITP) course. This game blends classic arcade nostalgia with multiplayer competition, including bombs, food, colored snakes, and score tracking.
 
 # 🎮 Features
